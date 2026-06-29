@@ -8,7 +8,7 @@ public class TernaryOperator {
         //Write a ternary operator to find odd or even number;
 
         int num = 7;
-        String OE = (7%2 == 0) ? "Even" : "Odd" ;
+        String OE = (num%2 == 0) ? "Even" : "Odd" ;
 
         System.out.println(OE);
 

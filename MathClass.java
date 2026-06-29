@@ -44,7 +44,7 @@ public class MathClass {
 
         double h = Math.sqrt(Math.pow(p,2) + Math.pow(b,2));
 
-        System.out.println(Math.round(h) + "Units");
+        System.out.println(Math.round(h) + " Units");
 
         scanner.close();
 

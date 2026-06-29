@@ -37,6 +37,6 @@ public class User_Input {
         else{
             System.out.println("You are not a student");
         }
+        scanner.close();
     }
-    
 }
