@@ -12,7 +12,7 @@ public class ForLoop {
         int[] numbers = {1,2,3,4,5};
 
         for(int num : numbers){
-            System.out.print(num+"\t");
+            System.out.print(num+"\t"); // This specific for loop is called for each loop;
         }
     }
 }
